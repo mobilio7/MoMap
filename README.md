@@ -9,9 +9,8 @@
 
 # 다운로드 링크
 
-[다운로드](https://mo-map.vercel.app/)
+버전 1.0.0 => [다운로드](https://mo-map.vercel.app/)
 
-버전 1.0.0
 
 # 설치 가이드
 
